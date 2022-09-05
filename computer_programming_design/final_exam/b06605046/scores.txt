@@ -1,0 +1,6 @@
+John=73
+Mary=92
+Helen=65
+Tom=84
+Peter=92
+Angela=73
